@@ -1,0 +1,40 @@
+
+.start h1{
+  
+  font-size: 10em;
+  margin: 0%;
+}
+h2{
+  font-size: 1.7em;
+  margin: 0;
+  color: #ecfa00;
+background: linear-gradient(180deg, #00FFFF -100%,
+rgba(0, 1, 1, 1) 370%);
+  letter-spacing: 1em;
+}
+
+
+.card {
+  width: 400px;
+  height: 300px;
+  margin-top: 15em;
+  
+  
+
+}
+.word{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card1{
+  
+  width: 492px;
+  height: 30px;
+  position: relative;
+  top: 110px;
+  
+  
+}

@@ -1,0 +1,7 @@
+.game-over h2 {
+  margin: 2em;
+}
+h2 span {
+  color: #ecfa00;
+  font-size: 1.5em;
+}
