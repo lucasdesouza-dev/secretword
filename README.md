@@ -1,8 +1,7 @@
 # Game Secret Word From React.JS
 
-https://user-images.githubusercontent.com/55006206/173661379-0b3f9ae7-fd9d-409c-8461-706fd1921fd4.mp4
 
-HomePage:[ https://lucashenriquesouza.github.io/secretword/](https://lucashenriquesouza.github.io/secretword/)
+[HomePage:](https://lucasdesouza-dev.github.io/secretword/)
 
 # Getting Started with Create React App
 
